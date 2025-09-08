@@ -1,4 +1,6 @@
 num1=int(input("Enter a value"))
 num2=int(input("Enter a value"))
+num3=int(input("Enter a value"))
 c=num1+num2
+
 print(c)
